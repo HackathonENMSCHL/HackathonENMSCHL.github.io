@@ -15,16 +15,26 @@ Coloca los archivos dentro de una carpeta y comprímelos dentro de un archivo .z
 ```
 Ejemplo:
 ```markdown
-[LosChayotes] - [AppInventor].zip
+LosChayotes - AppInventor.zip
 ```
 La plataforma es el entorno que realizaste en tu proyecto (AppInventor, Thunkable, C++, Python, etc.)
 
 ## Instrucciones Adicionales
 
+Sigue las instrucciones que más se adecuen a tu proyecto
 
 ### AppInventor y Thunkable Classic
 
 Si realizaste to proyecto en alguna de estas dos plataformas exporta tu proyecto en formato .api, y colocalo dentro de la carpeta de evidencias.
+Adicionalmente puedes añadir a tu carpeta el apk del proyecto.
+
+### Thunkable X
+
+Guarda el link al proyecto en Thunkable en un archivo .txt. Para obtener el link debes ir a la opción:
+```markdown
+Share > Generate Link
+```
+Adicionalmente puedes añadir a tu carpeta el apk del proyecto.
 
 ### Python, C++, C (Código Fuente)
 
