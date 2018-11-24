@@ -1,37 +1,35 @@
-## Bienvenido al Hackathon
+## Registro de Proyectos
 
-You can use the [editor on GitHub](https://github.com/HackathonENMSCHL/HackathonENMSCHL.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lee con atención las instrucciones para subir tu proyecto de acuerdo a la plataforma en que lo realizaste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El límite de hora para subir archivos es [5:45 PM]. Los archivos subidos después de esa hora serán descartados.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Deberás proporcionar las evidencias para la evaluación de tu proyecto:
+- Capturas de Pantalla
+- Presentación
+- Video (EN CASO DE TENER)
+- Código, o proyecto de acuerdo a las instrucciones correspondientes
+Coloca los archivos dentro de una carpeta y comprímelos dentro de un archivo .zip con el nombre:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[NOMBRE DE EQUIPO] - [PLATAFORMA].zip
 ```
+Ejemplo:
+```markdown
+[LosChayotes] - [AppInventor].zip
+```
+La plataforma es el entorno que utilizaste en tu proyecto (AppInventor, Thunkable, C++, Python, etc.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Instrucciones Adicionales
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackathonENMSCHL/HackathonENMSCHL.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### AppInventor y Thunkable Classic
 
-### Support or Contact
+Si realizaste to proyecto en alguna de estas dos plataformas exporta tu proyecto en formato .api, y colocalo dentro de la carpeta de evidencias.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Python, C++, C (Código Fuente)
+
+Coloca tu código dentro de una carpeta llamada "code" dentro de tu carpeta de evidencias.
+No es necesario añadir archivos ejecutables (.exe) o código objeto (.o)
+
+
+Mucha Suerte!
