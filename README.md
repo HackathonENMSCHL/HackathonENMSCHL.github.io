@@ -17,7 +17,7 @@ Ejemplo:
 ```markdown
 [LosChayotes] - [AppInventor].zip
 ```
-La plataforma es el entorno que utilizaste en tu proyecto (AppInventor, Thunkable, C++, Python, etc.)
+La plataforma es el entorno que realizaste en tu proyecto (AppInventor, Thunkable, C++, Python, etc.)
 
 ## Instrucciones Adicionales
 
