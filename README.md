@@ -25,7 +25,7 @@ Sigue las instrucciones que más se adecuen a tu proyecto
 
 ### AppInventor y Thunkable Classic
 
-Si realizaste to proyecto en alguna de estas dos plataformas exporta tu proyecto en formato .api, y colocalo dentro de la carpeta de evidencias.
+Si realizaste to proyecto en alguna de estas dos plataformas exporta tu proyecto en formato .aia, y colocalo dentro de la carpeta de evidencias.
 Adicionalmente puedes añadir a tu carpeta el apk del proyecto.
 
 ### Thunkable X
