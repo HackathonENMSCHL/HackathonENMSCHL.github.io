@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Hackathon Ambiental
 description: ENMSCHL
 
-#show_downloads: true
+show_downloads: true
